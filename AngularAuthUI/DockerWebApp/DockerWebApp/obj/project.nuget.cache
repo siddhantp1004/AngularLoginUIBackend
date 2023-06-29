@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4CqtEP2FWc8mtOH83IZfPTTjUzxoFP5wtEhfSQdXseBJBpeQqanST9yCbx+KiUNzeLw5pTYMTUoPvwqenNJkYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p1357957\\Desktop\\Capstone Login\\AngularAuthUI\\DockerWebApp\\DockerWebApp\\DockerWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p1357957\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
